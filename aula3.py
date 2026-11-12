@@ -1,3 +1,5 @@
+# 20. Tipo str (string) - Introdução aos tipos de dados
+
 """
 Python = Linguagem de Programação
 Tipo de tipagem = Dinâmica / Forte

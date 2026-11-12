@@ -1,3 +1,5 @@
+# 22. Tipo bool (boolean) - Introdução aos tipos de dados
+
 # Tipo de dado bool (boolean)
 # Ao questionar algo em um programa,
 # só existem duas respostas possíveis:
